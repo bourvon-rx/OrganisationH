@@ -1,0 +1,19 @@
+{
+  "name": "orgh",
+  "version": "1.0.0",
+  "description": "Organisation Hierarchy",
+  "main": "OrgH.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bourvon-rx/OrganisationH.git"
+  },
+  "author": "Von",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bourvon-rx/OrganisationH/issues"
+  },
+  "homepage": "https://github.com/bourvon-rx/OrganisationH#readme"
+}
